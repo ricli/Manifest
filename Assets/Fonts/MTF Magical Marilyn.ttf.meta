@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 48707d30b79e34b23b564e2f11b09132
+timeCreated: 1520550422
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: MTF Magical Marilyn
+  fontNames:
+  - MTF Magical Marilyn
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
